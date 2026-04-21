@@ -47,7 +47,7 @@ session_start();
     </div>
 </div>
 
-<!-- Search bar outside the nav -->
+
 <div class="search-wrapper">
     <input type="text" id="searchInput" placeholder="Search books, authors, users..." autocomplete="off">
     <div id="searchResults" class="search-results"></div>
