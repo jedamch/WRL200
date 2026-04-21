@@ -123,7 +123,7 @@ endif;
 
     <p>Don't have an account? <a href="createaccount.php">Register</a></p>
 </div>
-<a href="index.php">← Back</a>
+<a href="index.php">← Back to home</a>
 
 </body>
 </html>
